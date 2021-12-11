@@ -83,6 +83,7 @@ body {
     background-size: cover;
   }
   .container .p {
+    margin-top: 1rem;
     font-size: 2rem;
   }
   .container .connect {
