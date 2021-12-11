@@ -75,7 +75,7 @@ body {
   transition: all 0.3s ease-in-out;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
   .container body {
     height: 100vh;
     background-image: url(../images/bg.jpeg);
