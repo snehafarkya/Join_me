@@ -62,9 +62,9 @@ a:hover{
     transform: translateY(-4px);
     transition: all 0.3s ease-in-out;
 }
-@media screen and (max-width:370px) {
+@media screen and (max-width:400px) {
     body{
-        height: 250vh;
+        height: 100vh;
         background-image: url(../images/bg.jpeg);
     background-repeat: no-repeat;
         background-size: cover;
