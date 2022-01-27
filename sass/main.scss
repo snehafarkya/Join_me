@@ -51,12 +51,19 @@ text-align: left
 }
 .i1{
     @include border();
+    
 }
+i{
+    color: white;
+    font-size: 2em;
+}
+
 a{
     text-decoration: none;
-    padding-top: 1.2rem;
+    padding-top: 0.2rem;
     padding-left: 0.5rem;
     color: white;
+   
 }
 a:hover{
     transform: translateY(-4px);
